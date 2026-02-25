@@ -1,0 +1,13 @@
+# Copyright holder
+copyright: 2025 European Union
+license: LICENSE.txt
+
+
+ 
+# List of development authors
+
+Anna-Lena Erdmann, annalena.erdmann@eumetsat.int
+
+
+# Acknowledgements
+

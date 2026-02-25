@@ -1,0 +1,18 @@
+name: wekeo-dask
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10.18
+  - dask=2025.1.1
+  - distributed=2025.1.1
+  - dask-gateway=2025.4.0
+  - fsspec=2024.12.0
+  - hda=2.34
+  - ipykernel=6.30.1
+  - ipython=8.29.0
+  - matplotlib=3.10.6
+  - numpy=1.26.4
+  - pandas=2.2.3
+  - xarray=2025.9.0
+  - zarr=2.18.3

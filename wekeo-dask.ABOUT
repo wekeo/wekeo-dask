@@ -1,0 +1,28 @@
+# Component information
+name: wekeo-dask
+description: Compendium of training content associated to the use of the WEkEO DASK Gateway on the WEkEO workspace.
+copyright: 2025 European Union
+license_spdx: MIT
+date: 25-02-2026
+home_url: https://github.com/wekeo
+
+# Package IPR documentation
+license_text_file: LICENSE.txt
+
+# File(s) associated to this component
+about_resource: ./01_Introduction_to_DASK_Gateway.ipynb
+about_resource: ./02_Launch_DASK_Cluster_in_the_GUI.ipynb
+about_resource: ./03_Performance_benchmark_of_DASK_Gateway.ipynb
+about_resource: ./DASK_Workers_Processing_Result.ipynb
+about_resource: ./AUTHORS.txt
+about_resource: ./LICENSE.txt
+about_resource: ./README.md
+about_resource: ./environment.yml
+about_resource: ./img/01-open-dask-gui.png
+about_resource: ./img/02-launch-new-cluster.png
+about_resource: ./img/03-dask-cluster-lauched.png
+about_resource: ./img/04-opening-das-dashboard.png
+about_resource: ./img/05-dask-dashboard.png
+about_resource: ./img/06-dask-cluster-url.png
+about_resource: ./img/thumbs/dask-thumb.png
+
