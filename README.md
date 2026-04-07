@@ -39,17 +39,17 @@ This set of notebooks introduces a service on the WEkEO Workspace. You need to e
 
 | Package   | Version   | License       | Link                                                                 |
 |-----------|-----------|---------------|----------------------------------------------------------------------|
-| python    | 3.10.18   | PSF-2.0       | [python.org](https://www.python.org/downloads/release/python-3100/)  |
-| dask      | 2025.1.1  | BSD-3-Clause  | [anaconda.org/conda-forge/dask](https://anaconda.org/conda-forge/dask) |
-| distributed | 2025.1.1 | BSD-3-Clause | [anaconda.org/conda-forge/distributed](https://anaconda.org/conda-forge/distributed) |
-| dask-gateway | 2025.4.0 | BSD-3-Clause | [anaconda.org/conda-forge/dask-gateway](https://anaconda.org/conda-forge/dask-gateway) |
-| fsspec    | 2024.12.0 | BSD-3-Clause | [anaconda.org/conda-forge/fsspec](https://anaconda.org/conda-forge/fsspec) |
+| python    | 3.11.11   | PSF-2.0       | [python.org](https://www.python.org/)  |
+| dask      | 2024.5.1  | BSD-3-Clause  | [anaconda.org/conda-forge/dask](https://anaconda.org/conda-forge/dask) |
+| distributed | 2024.5.1 | BSD-3-Clause | [anaconda.org/conda-forge/distributed](https://anaconda.org/conda-forge/distributed) |
+| dask-gateway | 2024.1.0 | BSD-3-Clause | [anaconda.org/conda-forge/dask-gateway](https://anaconda.org/conda-forge/dask-gateway) |
+| fsspec    | 2024.6.1  | BSD-3-Clause  | [anaconda.org/conda-forge/fsspec](https://anaconda.org/conda-forge/fsspec) |
 | hda       | 2.34      | MIT           | [anaconda.org/conda-forge/hda](https://anaconda.org/conda-forge/hda) |
-| ipykernel | 6.30.1    | BSD-3-Clause  | [anaconda.org/conda-forge/ipykernel](https://anaconda.org/conda-forge/ipykernel) |
+| ipykernel | 6.29.5    | BSD-3-Clause  | [anaconda.org/conda-forge/ipykernel](https://anaconda.org/conda-forge/ipykernel) |
 | ipython   | 8.29.0    | BSD-3-Clause  | [anaconda.org/conda-forge/ipython](https://anaconda.org/conda-forge/ipython) |
-| matplotlib | 3.10.6   | PSF-2.0       | [anaconda.org/conda-forge/matplotlib](https://anaconda.org/conda-forge/matplotlib) |
+| matplotlib | 3.9.2    | PSF-2.0       | [anaconda.org/conda-forge/matplotlib](https://anaconda.org/conda-forge/matplotlib) |
 | numpy     | 1.26.4    | BSD-3-Clause  | [anaconda.org/conda-forge/numpy](https://anaconda.org/conda-forge/numpy) |
 | pandas    | 2.2.3     | BSD-3-Clause  | [anaconda.org/conda-forge/pandas](https://anaconda.org/conda-forge/pandas) |
-| xarray    | 2025.9.0  | Apache-2.0    | [anaconda.org/conda-forge/xarray](https://anaconda.org/conda-forge/xarray) |
+| xarray    | 2024.5.0  | Apache-2.0    | [anaconda.org/conda-forge/xarray](https://anaconda.org/conda-forge/xarray) |
 | zarr      | 2.18.3    | MIT           | [anaconda.org/conda-forge/zarr](https://anaconda.org/conda-forge/zarr) |
 
